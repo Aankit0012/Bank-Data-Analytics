@@ -1,65 +1,118 @@
-🏦 Bank Data Analytics Dashboard
-A comprehensive Tableau dashboard that visualizes bank loan data across various dimensions like state, religion, loan status, and product group. It helps financial institutions track disbursements, collections, and overall loan performance.
+# Bank-Data-Analytics
+A comprehensive Tableau dashboard that visualizes bank loan data across multiple dimensions including state, religion, loan status, and product group. This interactive dashboard enables stakeholders to monitor disbursements, collections, and loan performance with precision.
 
-📌 Purpose
-This dashboard enables financial analysts, bankers, and decision-makers to monitor trends in loan distribution, repayment, defaults, and interest collections—empowering data-driven lending and recovery strategies.
+## 1.📌 Purpose / Description
+The Bank Loan Analytics Dashboard provides a consolidated view of loan distribution, repayment performance, and trends across Indian states and customer categories. It helps financial analysts, banks, and policy-makers identify patterns in disbursement, repayment, and default to improve credit management and strategic planning.
 
-🛠 Tech Stack
-📊 Tableau Desktop – Main visualization & dashboarding tool
+## 2.🛠️ Tech Stack
+📊 Tableau Desktop – Primary tool for dashboard creation and interactivity.
 
-📂 Excel / CSV Files – Raw data on disbursements, repayments, borrower segments
+📂 Excel/CSV Files – Source format for loan disbursement and collection data.
 
-🧮 Filters / Parameters – Based on State, Month, Loan Status, and Grade
+🧮 Parameters & Filters – For slicing by State, Month, Loan Status, and Grade.
 
-📈 Visuals – KPI Cards, Pie/Donut Charts, Bar Charts, Line Graphs, Maps
+📈 Visualization Types – KPI cards, pie & donut charts, bar charts, line graphs, and map charts.
 
-📂 Data Source
-Confidential internal bank data containing:
+## 3.📂 Data Source
+Source: Internal bank data (confidential) maintained in structured Excel files.
 
-Loan amounts disbursed & collected
+Contents:
 
-Borrower religion & geography
+Loan disbursement and repayment amounts
 
-Product categories (Home, Business, etc.)
+Loan status (Active, Fully Paid, Insurance Paid Off, Write-Off)
 
-Loan statuses (Active, Paid, Write-Off)
+Product categories (Home Loan, Services, Business, etc.)
+
+Borrower segmentation by Religion and Geography
 
 Monthly disbursement trends
 
-✨ Key Features
-📊 KPI Summary
-Total Loan Funded: ₹750,968K
+## 4.✨ Features / Highlights
+• Business Problem:
+Financial institutions need real-time insights on loan performance across different states and customer segments to reduce risk, recover loans efficiently, and guide lending strategy.
+
+• Goal of the Dashboard:
+To provide a visual platform that tracks:
+
+Total loan amounts disbursed and collected
+
+Loan status distribution (Active, Paid Off, Write-Off, etc.)
+
+Performance across states and products
+
+Monthly disbursement fluctuations
+
+Segmentation of loans by religion and loan grade
+
+## 📊 Walkthrough of Key Visuals
+1.KPI Summary (Top Row)
+
+Total Loan Amount Funded: ₹750,968K
 
 Total Collection: ₹808,298K
 
-Default Count: 1,020
+Total Loans: ₹65.54K
 
-Verified Loans: 25,818
+No Verified Loans: 25,818
 
-Interest Earned: ₹155,289K
+Default Loan Count: 1,020
 
-📍 Loan Distribution Insights
-Religion-Wise: Hindu ₹563M, Sikh ₹101M, Muslim ₹80M
+Total Interest Earned: ₹155,289K
 
-Status-Wise: Active ₹41.21M, Fully Paid ₹19.09M, Write-Off ₹1.17M
+2. Religion-Wise Loan Distribution (Pie Chart)
 
-Product-Wise: Home Loan ₹278M, Services ₹156M, Others lower
+Hindu: ₹563.04M
 
-📌 State-Wise Performance
-Top States: UP ₹230K, Punjab ₹197K, Bihar ₹182K
+Sikh: ₹101.54M
 
-Geo Map View: Visualizes volume by region
+Muslim: ₹80.51M
 
-Trend Line: Disbursement trends (₹18M–₹150M monthly)
+Christian: ₹5.77M
 
-💡 Business Impact
-Targeted Lending: Focus on top-performing states (UP, Punjab)
+3. Loan Status-Wise Distribution (Donut Chart)
 
-Risk Control: Identify high write-off zones
+Active Loan: ₹41.21M
 
-Product Focus: Push high-return products (Home/Services)
+Fully Paid: ₹19.09M
 
-Segmentation Strategy: Religion-based lending insights
+Insurance Paid Off: ₹7.21M
 
-Forecasting: Monthly patterns to plan credit disbursements
+Write-Off: ₹1.17M
 
+4. Product Group-Wise Loan (Bar Chart)
+
+Home Loan: ₹278M
+
+Services: ₹156M
+
+Business: ₹83M
+
+Trade: ₹62M
+
+Others: ₹39M
+
+5. State-Wise Performance (Horizontal Bar Chart)
+
+Uttar Pradesh leads at ₹230.26K
+
+Followed by Punjab (₹197.13K), Bihar (₹182.36K), etc.
+
+State-Wise Loan Distribution (Map View)
+
+Highlights regions with high loan volumes like UP, Bihar, West Bengal, and Odisha.
+
+Disbursement Trend (Line Graph)
+
+Monthly fluctuations in disbursed loan amounts ranging from ₹18M to ₹150M, revealing seasonal or policy-driven patterns.
+
+## 💡 Business Impact & Insights
+Targeted Lending: Focus on states like UP and Punjab for continued loan growth.
+
+Risk Management: Identify high write-off zones for policy revisions.
+
+Product Optimization: Home Loans and Services dominate; underperforming segments like Trade/Others can be reassessed.
+
+Religious Segmentation: Majority of loan volume comes from Hindu borrowers—useful for segmentation-based campaigns.
+
+Trend Forecasting: Disbursement trends can guide monthly/quarterly credit planning.
