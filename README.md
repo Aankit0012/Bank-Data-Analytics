@@ -46,7 +46,7 @@ Monthly disbursement fluctuations
 Segmentation of loans by religion and loan grade
 
 ## 📊 Walkthrough of Key Visuals
-KPI Summary (Top Row)
+1. KPI Summary (Top Row)
 
 Total Loan Amount Funded: ₹750,968K
 
@@ -60,7 +60,7 @@ Default Loan Count: 1,020
 
 Total Interest Earned: ₹155,289K
 
-Religion-Wise Loan Distribution (Pie Chart)
+2. Religion-Wise Loan Distribution (Pie Chart)
 
 Hindu: ₹563.04M
 
@@ -70,14 +70,17 @@ Muslim: ₹80.51M
 
 Christian: ₹5.77M
 
-Loan Status-Wise Distribution (Donut Chart)
+3. Loan Status-Wise Distribution (Donut Chart)
 
 Active Loan: ₹41.21M
+
 Fully Paid: ₹19.09M
+
 Insurance Paid Off: ₹7.21M
+
 Write-Off: ₹1.17M
 
-Product Group-Wise Loan (Bar Chart)
+4. Product Group-Wise Loan (Bar Chart)
 
 Home Loan: ₹278M
 
@@ -89,7 +92,8 @@ Trade: ₹62M
 
 Others: ₹39M
 
-State-Wise Performance (Horizontal Bar Chart)
+5. State-Wise Performance (Horizontal Bar Chart)
+
 Uttar Pradesh leads at ₹230.26K
 
 Followed by Punjab (₹197.13K), Bihar (₹182.36K), etc.
