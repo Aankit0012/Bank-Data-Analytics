@@ -45,7 +45,7 @@ Monthly disbursement fluctuations
 
 Segmentation of loans by religion and loan grade
 
-## 📊 Walkthrough of Key Visuals
+## 5.📊 Walkthrough of Key Visuals
 ### 1.KPI Summary (Top Row)
 
 Total Loan Amount Funded: ₹750,968K
