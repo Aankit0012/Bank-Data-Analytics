@@ -1,10 +1,10 @@
 # Bank-Data-Analytics
 A comprehensive Tableau dashboard that visualizes bank loan data across multiple dimensions including state, religion, loan status, and product group. This interactive dashboard enables stakeholders to monitor disbursements, collections, and loan performance with precision.
 
-📌 Purpose / Description
+1.📌 Purpose / Description
 The Bank Loan Analytics Dashboard provides a consolidated view of loan distribution, repayment performance, and trends across Indian states and customer categories. It helps financial analysts, banks, and policy-makers identify patterns in disbursement, repayment, and default to improve credit management and strategic planning.
 
-🛠️ Tech Stack
+2.🛠️ Tech Stack
 📊 Tableau Desktop – Primary tool for dashboard creation and interactivity.
 
 📂 Excel/CSV Files – Source format for loan disbursement and collection data.
@@ -13,7 +13,7 @@ The Bank Loan Analytics Dashboard provides a consolidated view of loan distribut
 
 📈 Visualization Types – KPI cards, pie & donut charts, bar charts, line graphs, and map charts.
 
-📂 Data Source
+3.📂 Data Source
 Source: Internal bank data (confidential) maintained in structured Excel files.
 
 Contents:
@@ -28,7 +28,7 @@ Borrower segmentation by Religion and Geography
 
 Monthly disbursement trends
 
-✨ Features / Highlights
+4.✨ Features / Highlights
 • Business Problem:
 Financial institutions need real-time insights on loan performance across different states and customer segments to reduce risk, recover loans efficiently, and guide lending strategy.
 
@@ -73,37 +73,25 @@ Christian: ₹5.77M
 Loan Status-Wise Distribution (Donut Chart)
 
 Active Loan: ₹41.21M
-
 Fully Paid: ₹19.09M
-
 Insurance Paid Off: ₹7.21M
-
 Write-Off: ₹1.17M
 
 Product Group-Wise Loan (Bar Chart)
 
 Home Loan: ₹278M
-
 Services: ₹156M
-
 Business: ₹83M
-
 Trade: ₹62M
-
 Others: ₹39M
 
 State-Wise Performance (Horizontal Bar Chart)
-
 Uttar Pradesh leads at ₹230.26K
-
 Followed by Punjab (₹197.13K), Bihar (₹182.36K), etc.
 
 State-Wise Loan Distribution (Map View)
-
 Highlights regions with high loan volumes like UP, Bihar, West Bengal, and Odisha.
-
 Disbursement Trend (Line Graph)
-
 Monthly fluctuations in disbursed loan amounts ranging from ₹18M to ₹150M, revealing seasonal or policy-driven patterns.
 
 💡 Business Impact & Insights
