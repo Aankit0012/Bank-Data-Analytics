@@ -60,7 +60,8 @@ Default Loan Count: 1,020
 
 Total Interest Earned: ₹155,289K
 
-2. Religion-Wise Loan Distribution (Pie Chart)
+
+2.Religion-Wise Loan Distribution (Pie Chart)
 
 Hindu: ₹563.04M
 
@@ -70,7 +71,8 @@ Muslim: ₹80.51M
 
 Christian: ₹5.77M
 
-3. Loan Status-Wise Distribution (Donut Chart)
+
+3.Loan Status-Wise Distribution (Donut Chart)
 
 Active Loan: ₹41.21M
 
@@ -80,7 +82,8 @@ Insurance Paid Off: ₹7.21M
 
 Write-Off: ₹1.17M
 
-4. Product Group-Wise Loan (Bar Chart)
+
+4.Product Group-Wise Loan (Bar Chart)
 
 Home Loan: ₹278M
 
@@ -92,7 +95,8 @@ Trade: ₹62M
 
 Others: ₹39M
 
-5. State-Wise Performance (Horizontal Bar Chart)
+
+5.State-Wise Performance (Horizontal Bar Chart)
 
 Uttar Pradesh leads at ₹230.26K
 
@@ -102,7 +106,8 @@ State-Wise Loan Distribution (Map View)
 
 Highlights regions with high loan volumes like UP, Bihar, West Bengal, and Odisha.
 
-Disbursement Trend (Line Graph)
+
+5.Disbursement Trend (Line Graph)
 
 Monthly fluctuations in disbursed loan amounts ranging from ₹18M to ₹150M, revealing seasonal or policy-driven patterns.
 
