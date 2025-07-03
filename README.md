@@ -80,18 +80,26 @@ Write-Off: ₹1.17M
 Product Group-Wise Loan (Bar Chart)
 
 Home Loan: ₹278M
+
 Services: ₹156M
+
 Business: ₹83M
+
 Trade: ₹62M
+
 Others: ₹39M
 
 State-Wise Performance (Horizontal Bar Chart)
 Uttar Pradesh leads at ₹230.26K
+
 Followed by Punjab (₹197.13K), Bihar (₹182.36K), etc.
 
 State-Wise Loan Distribution (Map View)
+
 Highlights regions with high loan volumes like UP, Bihar, West Bengal, and Odisha.
+
 Disbursement Trend (Line Graph)
+
 Monthly fluctuations in disbursed loan amounts ranging from ₹18M to ₹150M, revealing seasonal or policy-driven patterns.
 
 ## 💡 Business Impact & Insights
