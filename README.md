@@ -1,10 +1,10 @@
 # Bank-Data-Analytics
 A comprehensive Tableau dashboard that visualizes bank loan data across multiple dimensions including state, religion, loan status, and product group. This interactive dashboard enables stakeholders to monitor disbursements, collections, and loan performance with precision.
 
-##1.📌 Purpose / Description
+## 1.📌 Purpose / Description
 The Bank Loan Analytics Dashboard provides a consolidated view of loan distribution, repayment performance, and trends across Indian states and customer categories. It helps financial analysts, banks, and policy-makers identify patterns in disbursement, repayment, and default to improve credit management and strategic planning.
 
-##2.🛠️ Tech Stack
+## 2.🛠️ Tech Stack
 📊 Tableau Desktop – Primary tool for dashboard creation and interactivity.
 
 📂 Excel/CSV Files – Source format for loan disbursement and collection data.
@@ -13,7 +13,7 @@ The Bank Loan Analytics Dashboard provides a consolidated view of loan distribut
 
 📈 Visualization Types – KPI cards, pie & donut charts, bar charts, line graphs, and map charts.
 
-##3.📂 Data Source
+## 3.📂 Data Source
 Source: Internal bank data (confidential) maintained in structured Excel files.
 
 Contents:
@@ -28,7 +28,7 @@ Borrower segmentation by Religion and Geography
 
 Monthly disbursement trends
 
-##4.✨ Features / Highlights
+## 4.✨ Features / Highlights
 • Business Problem:
 Financial institutions need real-time insights on loan performance across different states and customer segments to reduce risk, recover loans efficiently, and guide lending strategy.
 
@@ -45,7 +45,7 @@ Monthly disbursement fluctuations
 
 Segmentation of loans by religion and loan grade
 
-##📊 Walkthrough of Key Visuals
+## 📊 Walkthrough of Key Visuals
 KPI Summary (Top Row)
 
 Total Loan Amount Funded: ₹750,968K
@@ -94,7 +94,7 @@ Highlights regions with high loan volumes like UP, Bihar, West Bengal, and Odish
 Disbursement Trend (Line Graph)
 Monthly fluctuations in disbursed loan amounts ranging from ₹18M to ₹150M, revealing seasonal or policy-driven patterns.
 
-##💡 Business Impact & Insights
+## 💡 Business Impact & Insights
 Targeted Lending: Focus on states like UP and Punjab for continued loan growth.
 
 Risk Management: Identify high write-off zones for policy revisions.
