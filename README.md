@@ -1,5 +1,5 @@
 # Bank-Data-Analytics
-A comprehensive Tableau dashboard that visualizes bank loan data across multiple dimensions including state, religion, loan status, and product group. This interactive dashboard enables stakeholders to monitor disbursements, collections, and loan performance with precision.
+A comprehensive Power BI dashboard that visualizes bank loan data across multiple dimensions including state, religion, loan status, and product group. This interactive dashboard enables stakeholders to monitor disbursements, collections, and loan performance with precision.
 
 ## 1.📌 Purpose / Description
 The Bank Loan Analytics Dashboard provides a consolidated view of loan distribution, repayment performance, and trends across Indian states and customer categories. It helps financial analysts, banks, and policy-makers identify patterns in disbursement, repayment, and default to improve credit management and strategic planning.
@@ -124,4 +124,4 @@ Trend Forecasting: Disbursement trends can guide monthly/quarterly credit planni
 
 ## 6.Screenshots / Demos:
 
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/Aankit0012/Bank-Data-Analytics/blob/main/Screenshot%20of%20Bank%20Data%20Analytics%20PowerBI.png)
