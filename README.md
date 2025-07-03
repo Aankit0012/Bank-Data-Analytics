@@ -121,3 +121,7 @@ Product Optimization: Home Loans and Services dominate; underperforming segments
 Religious Segmentation: Majority of loan volume comes from Hindu borrowers—useful for segmentation-based campaigns.
 
 Trend Forecasting: Disbursement trends can guide monthly/quarterly credit planning.
+
+## 6.Screenshots / Demos:
+
+Example: ![Dashboard Preview]()
